@@ -16,22 +16,50 @@ The objective of this project is to analyze OLA ride-booking data and develop in
 
 ---
 
-## Repository Structure
+Repository Structure
+This repository contains the following files and folders:
 
-This repository currently contains the following project file:
+1. OLA-Data-Analyst-Project.pdf
+    Blueprint of the project, detailing:
+  SQL queries.
+  Power BI dashboards.
+  Segregation of insights and visualizations.
+2. https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Booking_details%20dataset.xlsx
+  Dataset containing 100,000+ rows with the following columns:
+  Date, Time, Booking_ID, Booking_Status.
+  Customer_ID, Vehicle_Type, Pickup_Location, Drop_Location.
+  V_TAT, C_TAT, Booking_Value, Payment_Method.
+  Ride_Distance, Driver_Ratings, Customer_Ratings.
+  Cancellation details and reasons.
+  Source for SQL queries and Power BI visualizations.
+3. https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Ola_Data_Analysis.sql
+  SQL script with 10 structured queries to derive key insights, including the creation of reusable views:
+  Retrieve all successful bookings.
+  Calculate the average ride distance for each vehicle type.
+  Count the total number of rides canceled by customers.
+  Identify the top 5 customers by total bookings.
+  Analyze the number of rides canceled by drivers due to personal or car-related issues.
+  Find the maximum and minimum driver ratings for Prime Sedan bookings.
+  Retrieve all rides where payment was made using UPI.
+  Calculate the average customer rating per vehicle type.
+  Compute the total booking value of successful rides.
+  List all incomplete rides along with their reasons.
+4. https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/OLA%20analysis.pbix
+  Power BI file with interactive dashboards, divided into 5 main sections:
+  Overall Trends: Ride volume over time and booking status breakdown.
+  Vehicle Insights: Top vehicle types by distance and ratings.
+  Revenue Analysis: Payment method breakdown and top spenders.
+  Cancellations: Reasons for cancellations by customers and drivers.
+  Ratings Analysis: Distribution and comparison of customer vs. driver ratings.
+5. Ola-Slides
+  Folder containing 5 PNG images used as canvas backgrounds for the Power BI dashboards.
+   https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Overview.png
+   https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Vehicle.png
+   https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Rating.png
+   https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Customer.png
+7. Portfolio Dashboard
+  The complete dashboard is designed for showcasing in your portfolio, emphasizing interactive storytelling and professional design.
 
-### 1.OLA analysis.pbix
-
-Power BI dashboard file containing four interactive report pages:
-
-1. **Overview**: Provides a high-level view of the ride-booking data and overall performance.
-2. **Vehicle Analysis**: Explores vehicle-related data and performance patterns.
-3. **Customer Analysis**: Focuses on customer-related data and behavioural patterns.
-4. **Rating Analysis**: Examines rating-related patterns to understand customer and driver experiences.
-
-The dashboard can be opened using Microsoft Power BI Desktop.
-
----
 
 ## Dashboard Preview
 
