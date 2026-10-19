@@ -32,7 +32,7 @@ This repository contains the following files and folders:
   Ride_Distance, Driver_Ratings, Customer_Ratings.
   Cancellation details and reasons.
   Source for SQL queries and Power BI visualizations.
-3. https://github.com/Poojasri-25/OLA-Data-Analysis-and-Visualization-Project/blob/main/Ola_Data_Analysis.sql
+3. Ola_Data_Analysis.sql
   SQL script with 10 structured queries to derive key insights, including the creation of reusable views:
   Retrieve all successful bookings.
   Calculate the average ride distance for each vehicle type.
