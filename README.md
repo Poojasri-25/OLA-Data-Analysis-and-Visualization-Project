@@ -20,7 +20,7 @@ The objective of this project is to analyze OLA ride-booking data and develop in
 
 This repository currently contains the following project file:
 
-### 1. **OLA analysis.pbix**
+### 1.OLA analysis.pbix
 
 Power BI dashboard file containing four interactive report pages:
 
