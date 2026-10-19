@@ -1,6 +1,3 @@
-# OLA-Data-Analysis-and-Visualization-Project
-Data analysis and visualization project exploring OLA ride-booking data, customer behaviour, ride trends, cancellations, and business insights using Excel, SQL, Python, and Power BI.
-
 # OLA Data Analysis and Visualization Project
 
 This repository showcases a data analysis and visualization project based on OLA ride-booking data using Microsoft Power BI. The project focuses on exploring ride-booking performance, vehicle-related insights, customer behaviour, and rating patterns through interactive dashboards. It aims to present data in a clear and meaningful way to support business analysis and decision-making.
