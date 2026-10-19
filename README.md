@@ -37,19 +37,14 @@ The dashboard can be opened using Microsoft Power BI Desktop.
 
 Dashboard screenshots will be added here to provide a quick preview of the Power BI report.
 
-Once screenshots are uploaded to the `screenshots` folder, add them using the following Markdown syntax:
+Overview.png
 
-```markdown
-![Overview Dashboard](screenshots/overview.png)
+Vehicle.png
 
-![Vehicle Analysis Dashboard](screenshots/vehicle-analysis.png)
+Customer.png
 
-![Customer Analysis Dashboard](screenshots/customer-analysis.png)
+Rating.png
 
-![Rating Analysis Dashboard](screenshots/rating-analysis.png)
-```
-
----
 
 ## Key Areas of Analysis
 
